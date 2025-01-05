@@ -1,0 +1,6 @@
+artifact_location: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/M2v1/mlruns/932048829504849157
+creation_time: 1735995174465
+experiment_id: '932048829504849157'
+last_update_time: 1735995174465
+lifecycle_stage: active
+name: iris_KNeighborsClassifier

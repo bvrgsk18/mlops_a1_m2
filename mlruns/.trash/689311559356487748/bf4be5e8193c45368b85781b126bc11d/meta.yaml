@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/M2v1/mlruns/689311559356487748/bf4be5e8193c45368b85781b126bc11d/artifacts
+deleted_time: 1735995225726
+end_time: 1735993456550
+entry_point_name: ''
+experiment_id: '689311559356487748'
+lifecycle_stage: deleted
+run_id: bf4be5e8193c45368b85781b126bc11d
+run_name: spiffy-flea-1000
+run_uuid: bf4be5e8193c45368b85781b126bc11d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735993436782
+status: 3
+tags: []
+user_id: Santosh
