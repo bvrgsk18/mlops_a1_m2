@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/360160110817064879/494f8044e69046b3bcd9e2f414403e45/artifacts
+end_time: 1736073819200
+entry_point_name: ''
+experiment_id: '360160110817064879'
+lifecycle_stage: active
+run_id: 494f8044e69046b3bcd9e2f414403e45
+run_name: persistent-stag-674
+run_uuid: 494f8044e69046b3bcd9e2f414403e45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073812871
+status: 3
+tags: []
+user_id: Santosh

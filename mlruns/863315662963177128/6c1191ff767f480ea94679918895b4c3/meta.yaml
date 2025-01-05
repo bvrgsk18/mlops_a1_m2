@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/863315662963177128/6c1191ff767f480ea94679918895b4c3/artifacts
+end_time: 1736073806253
+entry_point_name: ''
+experiment_id: '863315662963177128'
+lifecycle_stage: active
+run_id: 6c1191ff767f480ea94679918895b4c3
+run_name: awesome-trout-20
+run_uuid: 6c1191ff767f480ea94679918895b4c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073799086
+status: 3
+tags: []
+user_id: Santosh

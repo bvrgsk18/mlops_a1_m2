@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/863315662963177128/65d1fe9149cd46cfbe3ff7c1eac8b54f/artifacts
+end_time: 1736073715807
+entry_point_name: ''
+experiment_id: '863315662963177128'
+lifecycle_stage: active
+run_id: 65d1fe9149cd46cfbe3ff7c1eac8b54f
+run_name: grandiose-deer-521
+run_uuid: 65d1fe9149cd46cfbe3ff7c1eac8b54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073709624
+status: 3
+tags: []
+user_id: Santosh

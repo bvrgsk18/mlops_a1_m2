@@ -17,8 +17,8 @@ columns=["SepalLengthCm","SepalWidthCm","PetalLengthCm","PetalWidthCm","Species"
 base_folder = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 dataset = pd.read_csv(base_folder + '\data\iris_data.csv', names=columns)
-print(dataset.head())
-exit(1)
+#print(dataset.head())
+
 label_encoder = LabelEncoder() 
 dataset['Species']= label_encoder.fit_transform(dataset['Species']) 
 
@@ -37,16 +37,16 @@ with mlflow.start_run():
     # Model1 - Decision Tree Classifier
 
     #Trial #1
-    dt_random_state = 0
-    dt_criterion = 'entropy'
+    #dt_random_state = 0
+    #dt_criterion = 'entropy'
     
     #Trial #2
     #dt_random_state = 45
     #dt_criterion = 'gini'
 
     #Trial #3
-    #dt_random_state = 20
-    #dt_criterion = 'log_loss'
+    dt_random_state = 20
+    dt_criterion = 'log_loss'
 
     classifier = DecisionTreeClassifier(criterion = dt_criterion, random_state = dt_random_state)
     classifier.fit(X_train, y_train)
@@ -76,16 +76,16 @@ with mlflow.start_run():
     # Model2 - KNN Classifier
     
     #Trial #1
-    kn_neighbors = 3
-    kn_algorithm = 'auto'
+    #kn_neighbors = 3
+    #kn_algorithm = 'auto'
     
     #Trial #2
     #kn_neighbors = 5
     #kn_algorithm = 'brute'
 
     #Trial #3
-    #kn_neighbors = 10
-    #kn_algorithm = 'ball_tree'
+    kn_neighbors = 10
+    kn_algorithm = 'ball_tree'
 
     model = KNeighborsClassifier(n_neighbors = kn_neighbors, algorithm = kn_algorithm)
     model.fit(X_train,y_train)
@@ -115,16 +115,16 @@ with mlflow.start_run():
     # Model3 - Logistic Regression
     
     #Trial #1
-    lr_random_state = 42
-    lr_solver = 'lbfgs'
+    #lr_random_state = 42
+    #lr_solver = 'lbfgs'
     
     #Trial #2
     #lr_random_state = 18
     #lr_solver = 'newton-cholesky'
 
     #Trial #3
-    #lr_random_state = 45
-    #lr_solver = 'sag'
+    lr_random_state = 45
+    lr_solver = 'sag'
     
     model = LogisticRegression(random_state= lr_random_state, solver= lr_solver)
     model.fit(X_train,y_train) 

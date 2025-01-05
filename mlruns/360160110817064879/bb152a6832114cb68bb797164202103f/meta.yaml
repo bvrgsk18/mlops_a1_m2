@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/360160110817064879/bb152a6832114cb68bb797164202103f/artifacts
+end_time: 1736073723777
+entry_point_name: ''
+experiment_id: '360160110817064879'
+lifecycle_stage: active
+run_id: bb152a6832114cb68bb797164202103f
+run_name: omniscient-rat-844
+run_uuid: bb152a6832114cb68bb797164202103f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073719551
+status: 3
+tags: []
+user_id: Santosh

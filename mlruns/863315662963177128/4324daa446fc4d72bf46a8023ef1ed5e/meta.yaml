@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/863315662963177128/4324daa446fc4d72bf46a8023ef1ed5e/artifacts
+end_time: 1736073883914
+entry_point_name: ''
+experiment_id: '863315662963177128'
+lifecycle_stage: active
+run_id: 4324daa446fc4d72bf46a8023ef1ed5e
+run_name: loud-lynx-415
+run_uuid: 4324daa446fc4d72bf46a8023ef1ed5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073875146
+status: 3
+tags: []
+user_id: Santosh

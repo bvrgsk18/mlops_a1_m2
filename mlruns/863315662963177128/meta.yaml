@@ -1,0 +1,6 @@
+artifact_location: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/863315662963177128
+creation_time: 1736073708319
+experiment_id: '863315662963177128'
+last_update_time: 1736073708319
+lifecycle_stage: active
+name: iris_DecisionTreeClassifier

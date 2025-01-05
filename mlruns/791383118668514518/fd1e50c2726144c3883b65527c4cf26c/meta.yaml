@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/791383118668514518/fd1e50c2726144c3883b65527c4cf26c/artifacts
+end_time: 1736073812850
+entry_point_name: ''
+experiment_id: '791383118668514518'
+lifecycle_stage: active
+run_id: fd1e50c2726144c3883b65527c4cf26c
+run_name: enchanting-cow-469
+run_uuid: fd1e50c2726144c3883b65527c4cf26c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073806277
+status: 3
+tags: []
+user_id: Santosh

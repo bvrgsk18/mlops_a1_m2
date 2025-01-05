@@ -1,0 +1,6 @@
+artifact_location: file:///C:/DRIVE-E/BITS/Sem3/ML%20Ops/a1/mlops_a1_m2/mlruns/360160110817064879
+creation_time: 1736073719526
+experiment_id: '360160110817064879'
+last_update_time: 1736073719526
+lifecycle_stage: active
+name: iris_LogisticRegression
